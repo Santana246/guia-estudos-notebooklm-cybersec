@@ -22,8 +22,9 @@ https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
 - Gere um resumo simples e profissional, de maneira que leigos consigam entender o que está sendo explicado e usar este material para explicar o tema a outros, não apenas em seus detalhes, mas em sua importância como um todo, tanto para os negócios como para a vida pessoal.
 
 ## Miniguia de Estudo
-Link da apresentação ["The Digital Shield"](https://notebooklm.google.com/notebook/0ec9e9d4-5d5e-4004-a42c-6d4be5853196/artifact/8019ff65-24a0-49d2-829f-20b48d57eee3) aqui.
-Link do [Notebook](https://notebooklm.google.com/notebook/0ec9e9d4-5d5e-4004-a42c-6d4be5853196)
+Link da apresentação ["The Digital Shield"](https://notebooklm.google.com/notebook/0ec9e9d4-5d5e-4004-a42c-6d4be5853196/artifact/8019ff65-24a0-49d2-829f-20b48d57eee3) aqui. Link do [Notebook](https://notebooklm.google.com/notebook/0ec9e9d4-5d5e-4004-a42c-6d4be5853196) aqui.
+<img width="1339" height="744" alt="image" src="https://github.com/user-attachments/assets/2627b1c3-af73-401c-85d6-838007cbf888" />
+
 
 ### Glossário com os principais conceitos aprendidos
 Este glossário organiza os principais conceitos de segurança cibernética encontrados nas fontes, divididos em temas ordenados alfabeticamente. Dentro de cada tema, os termos também seguem a ordem alfabética.
